@@ -1,7 +1,7 @@
 define([
     'd3'
 ], function(d3) {
-    var module - function() {
+    var module = function() {
         var width = 500,
             height = 500,
             gap = 0,
